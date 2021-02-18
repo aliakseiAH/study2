@@ -1,0 +1,12 @@
+123
+Shoe{name='Ботинки СВАРЩИК ут М.1398 ЗП', size=40, quantity=0}
+Shoe{name='Ботинки СВАРЩИК ут М.1398 ЗП', size=45, quantity=0}
+Shoe{name='Ботинки ТОФФ БЕРКУТ И с выс.берцами ут ч', size=38, quantity=0}
+Shoe{name='Ботинки ТОФФ БЕРКУТ с выс. берцами чер.', size=40, quantity=0}
+Shoe{name='Ботинки Трейл ЛЕДИ ИКС КП чер. ЗП', size=37, quantity=0}
+Shoe{name='Ботинки ФОРВЕЛД 3 КП (Р) чер. ЗП', size=40, quantity=0}
+Shoe{name='Сапоги ПВХ олив. МП сталь', size=42, quantity=0}
+Shoe{name='Сапоги ЭЛЕКТРА Е22 с кон отс ут МУН200', size=37, quantity=0}
+Shoe{name='Сапоги ЭЛЕКТРА Е22 с кон отс ут МУН200', size=38, quantity=0}
+Shoe{name='Сапоги ЭЛЕКТРА Е22 с кон отс ут МУН200', size=40, quantity=0}
+Shoe{name='Сапоги ЭЛЕКТРА Е22 с кон отс ут МУН200', size=41, quantity=0}

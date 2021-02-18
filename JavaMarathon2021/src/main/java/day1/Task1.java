@@ -8,7 +8,7 @@ public class Task1 {
         int x = 0;
         while (x<10) {
             System.out.print("JAVA ");
-            x = x+1;
+            x = x+2;
         }
 
     }
